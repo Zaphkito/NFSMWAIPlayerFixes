@@ -1,0 +1,14 @@
+/build/
+/work/
+/outputs/*
+!/outputs/NFSMWAIPlayerFixes.cpp
+!/outputs/NFSMWAIPlayerFixes.ini
+*.dmp
+*.log
+*.obj
+*.lib
+*.exp
+*.map
+*.asi
+*.zip
+.vs/
